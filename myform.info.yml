@@ -1,0 +1,7 @@
+name: My Form
+description: A Resume form to enter user details.
+core_version_requirement: ^8 || ^9
+package: Custom
+type: module
+libraries:
+  - myform/myform_setting

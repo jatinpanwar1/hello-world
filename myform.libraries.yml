@@ -1,0 +1,4 @@
+myform_setting:
+  css:
+    module:
+      css/style.css: {}

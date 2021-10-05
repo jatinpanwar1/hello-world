@@ -1,0 +1,5 @@
+myform.user:
+  title: 'User List'
+  parent: system.admin_reports
+  description: 'List of registers'
+  route_name: myform.user
